@@ -6,7 +6,7 @@ UUID=${UUID:-'d7b78201-ce99-4a64-9ccd-a0e87af33453'}
 
 # 其他Paas保活
 PAAS1_URL=https://p02--test0519--appk--ccf-s5zf.code.run
-PAAS2_URL= 
+PAAS2_URL=https://back4610-53tz0w04.b4a.run
 PAAS3_URL=
 PAAS4_URL=
 PAAS5_URL=
